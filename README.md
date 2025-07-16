@@ -32,4 +32,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
