@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0543-diameter-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0543-diameter-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -33,12 +35,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0543-diameter-of-binary-tree) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0199-binary-tree-right-side-view) |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Database
 |  |
 | ------- |
@@ -50,4 +54,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1509-replace-employee-id-with-the-unique-identifier](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/1509-replace-employee-id-with-the-unique-identifier) |
 | [1827-invalid-tweets](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/1908-recyclable-and-low-fat-products) |
+## Hash Table
+|  |
+| ------- |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+## Sorting
+|  |
+| ------- |
+| [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 <!---LeetCode Topics End-->
