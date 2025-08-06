@@ -75,4 +75,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0783-search-in-a-binary-search-tree](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0784-insert-into-a-binary-search-tree) |
+## Array
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0027-remove-element) |
+## Two Pointers
+|  |
+| ------- |
+| [0027-remove-element](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0027-remove-element) |
 <!---LeetCode Topics End-->
