@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0066-plus-one) |
+| [2238-a-number-after-a-double-reversal](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/2238-a-number-after-a-double-reversal) |
 ## Tree
 |  |
 | ------- |
