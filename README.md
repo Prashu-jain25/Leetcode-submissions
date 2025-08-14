@@ -70,10 +70,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Search Tree
 |  |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0066-plus-one) |
 | [0137-single-number-ii](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0137-single-number-ii) |
+| [0217-contains-duplicate](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0260-single-number-iii) |
 | [1031-add-to-array-form-of-integer](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/1031-add-to-array-form-of-integer) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/2144-maximum-difference-between-increasing-elements) |
