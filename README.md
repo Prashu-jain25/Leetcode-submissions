@@ -88,10 +88,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0066-plus-one) |
+| [0137-single-number-ii](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0137-single-number-ii) |
 | [1031-add-to-array-form-of-integer](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/1031-add-to-array-form-of-integer) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/2144-maximum-difference-between-increasing-elements) |
 ## Two Pointers
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0027-remove-element) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0137-single-number-ii](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0137-single-number-ii) |
 <!---LeetCode Topics End-->
