@@ -1,7 +1,22 @@
 class Solution {
     public boolean containsDuplicate(int[] nums) {
         // return sol_1(nums);
-        return sol_2(nums);
+        // return sol_2(nums);
+        return sol_3(nums);
+    }
+
+    private boolean sol_3(int[] nums) {
+        HashSet<Integer> set = new HashSet<>();
+
+        for(int x : nums) {
+            if(set.contains(x)) {
+                return true;
+            }
+
+            set.add(x);
+        }
+
+        return false;
     }
 
     private boolean sol_2(int[] nums) {
