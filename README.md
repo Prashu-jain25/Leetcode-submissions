@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1646-kth-missing-positive-number](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/1646-kth-missing-positive-number) |
 ## Array
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0260-single-number-iii) |
 | [0349-intersection-of-two-arrays](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0349-intersection-of-two-arrays) |
 | [1031-add-to-array-form-of-integer](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/1031-add-to-array-form-of-integer) |
+| [1646-kth-missing-positive-number](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/1646-kth-missing-positive-number) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/2144-maximum-difference-between-increasing-elements) |
 ## Two Pointers
 |  |
