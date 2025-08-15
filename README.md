@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0066-plus-one) |
+| [0326-power-of-three](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0342-power-of-four) |
 | [1031-add-to-array-form-of-integer](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/1031-add-to-array-form-of-integer) |
 | [2238-a-number-after-a-double-reversal](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/2238-a-number-after-a-double-reversal) |
@@ -118,5 +119,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0326-power-of-three](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
