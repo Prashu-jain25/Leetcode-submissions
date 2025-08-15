@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0009-palindrome-number](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0009-palindrome-number) |
 | [0066-plus-one](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0066-plus-one) |
+| [0069-sqrtx](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0342-power-of-four) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0069-sqrtx) |
 | [0349-intersection-of-two-arrays](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0450-delete-node-in-a-bst](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0783-search-in-a-binary-search-tree) |
