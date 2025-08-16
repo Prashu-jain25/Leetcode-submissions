@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0110-balanced-binary-tree) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0110-balanced-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0199-binary-tree-right-side-view) |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0100-same-tree) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0110-balanced-binary-tree](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0110-balanced-binary-tree) |
@@ -88,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0069-sqrtx) |
+| [0098-validate-binary-search-tree](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0098-validate-binary-search-tree) |
 | [0349-intersection-of-two-arrays](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0450-delete-node-in-a-bst](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0783-search-in-a-binary-search-tree) |
