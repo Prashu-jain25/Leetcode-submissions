@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0342-power-of-four) |
 | [1031-add-to-array-form-of-integer](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/1031-add-to-array-form-of-integer) |
 | [2238-a-number-after-a-double-reversal](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/2238-a-number-after-a-double-reversal) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Tree
 |  |
 | ------- |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1031-add-to-array-form-of-integer](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/1031-add-to-array-form-of-integer) |
 | [1646-kth-missing-positive-number](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/1646-kth-missing-positive-number) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/2144-maximum-difference-between-increasing-elements) |
+| [2432-number-of-zero-filled-subarrays](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/2432-number-of-zero-filled-subarrays) |
 ## Two Pointers
 |  |
 | ------- |
