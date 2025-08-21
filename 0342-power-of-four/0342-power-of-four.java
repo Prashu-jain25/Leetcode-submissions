@@ -3,7 +3,7 @@ class Solution {
         return sol_1(n);
     }
 
-    private int sol_1(int n) {
+    private boolean sol_1(int n) {
         if(n <= 0) {
             return false;
         }
