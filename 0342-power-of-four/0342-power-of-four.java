@@ -1,5 +1,9 @@
 class Solution {
     public boolean isPowerOfFour(int n) {
+        return sol_1(n);
+    }
+
+    private int sol_1(int n) {
         if(n <= 0) {
             return false;
         }
