@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0098-validate-binary-search-tree](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0098-validate-binary-search-tree) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0287-find-the-duplicate-number](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0450-delete-node-in-a-bst](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0783-search-in-a-binary-search-tree) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0260-single-number-iii](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0260-single-number-iii) |
+| [0287-find-the-duplicate-number](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1031-add-to-array-form-of-integer](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/1031-add-to-array-form-of-integer) |
@@ -138,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0287-find-the-duplicate-number](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0349-intersection-of-two-arrays) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Bit Manipulation
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0260-single-number-iii) |
+| [0287-find-the-duplicate-number](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0342-power-of-four) |
 ## String
 |  |
