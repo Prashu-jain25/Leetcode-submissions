@@ -147,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0234-palindrome-linked-list](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0528-swapping-nodes-in-a-linked-list) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0342-power-of-four) |
 ## Linked List
@@ -188,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0237-delete-node-in-a-linked-list) |
 | [0528-swapping-nodes-in-a-linked-list](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0528-swapping-nodes-in-a-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -207,4 +210,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0387-first-unique-character-in-a-string) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
