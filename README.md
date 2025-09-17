@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0792-binary-search](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0792-binary-search) |
 | [1646-kth-missing-positive-number](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/1646-kth-missing-positive-number) |
 ## Array
 |  |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0575-distribute-candies) |
+| [0792-binary-search](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0792-binary-search) |
 | [1031-add-to-array-form-of-integer](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/1031-add-to-array-form-of-integer) |
 | [1646-kth-missing-positive-number](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/1646-kth-missing-positive-number) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/2144-maximum-difference-between-increasing-elements) |
