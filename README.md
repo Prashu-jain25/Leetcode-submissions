@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0148-sort-list](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0229-majority-element-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0349-intersection-of-two-arrays) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 ## Binary Search Tree
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0137-single-number-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0217-contains-duplicate) |
+| [0229-majority-element-ii](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0229-majority-element-ii) |
 | [0260-single-number-iii](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0349-intersection-of-two-arrays) |
@@ -221,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0229-majority-element-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0387-first-unique-character-in-a-string) |
 ## Stack
 |  |
