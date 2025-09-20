@@ -22,26 +22,27 @@ class Solution {
         }
 
         Queue<TreeNode> q = new LinkedList<>();
-
         q.add(root);
 
         while(!q.isEmpty()) {
-            int limit = q.size();
-            for(int i = 0; i < limit; i++) {
-                TreeNode node = q.poll();
-                if(i == limit - 1) {
-                    ans.add(node.val);
-                }
-                
-                if(node.left != null) {
-                    q.add(node.left);
+            int len = q.size();
+
+            for(int i = 0; i < len; i++) {
+                TreeNode curr = q.poll();
+
+                if(i == 0) {
+                    ans.add(curr.val);
                 }
 
-                if(node.right != null) {
-                    q.add(node.right);
+                if(curr.right != null) {
+                    q.add(curr.right);
                 }
-            } 
 
+                if(curr.left != null) {
+                    q.add(curr.left);
+                }
+
+            }
         }
 
         return ans;
