@@ -21,30 +21,47 @@ class Solution {
             return ans;
         }
 
-        Queue<TreeNode> q = new LinkedList<>();
-        q.add(root);
+        dfs(ans, 0, root);
 
-        while(!q.isEmpty()) {
-            int len = q.size();
+        // Queue<TreeNode> q = new LinkedList<>();
+        // q.add(root);
 
-            for(int i = 0; i < len; i++) {
-                TreeNode curr = q.poll();
+        // while(!q.isEmpty()) {
+        //     int len = q.size();
 
-                if(i == 0) {
-                    ans.add(curr.val);
-                }
+        //     for(int i = 0; i < len; i++) {
+        //         TreeNode curr = q.poll();
 
-                if(curr.right != null) {
-                    q.add(curr.right);
-                }
+        //         if(i == 0) {
+        //             ans.add(curr.val);
+        //         }
 
-                if(curr.left != null) {
-                    q.add(curr.left);
-                }
+        //         if(curr.right != null) {
+        //             q.add(curr.right);
+        //         }
 
-            }
-        }
+        //         if(curr.left != null) {
+        //             q.add(curr.left);
+        //         }
+
+        //     }
+        // }
 
         return ans;
     }
+
+    private void dfs(List<Integer> ans, int level, TreeNode root) {
+        if(root == null) {
+            return;
+        }
+
+        if(ans.size() == level) {
+            ans.add(root.val);
+        }
+
+        dfs(ans, level + 1, root.right);
+        dfs(ans, level + 1, root.left);
+    }
+
 }
+
