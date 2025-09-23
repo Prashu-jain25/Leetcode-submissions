@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0100-same-tree) |
 | [0110-balanced-binary-tree](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0110-balanced-binary-tree](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0112-path-sum) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -235,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0234-palindrome-linked-list) |
 ## Sliding Window
 |  |
