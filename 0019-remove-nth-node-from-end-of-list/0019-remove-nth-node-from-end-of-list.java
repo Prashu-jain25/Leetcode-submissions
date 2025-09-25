@@ -10,27 +10,31 @@
  */
 class Solution {
     public ListNode removeNthFromEnd(ListNode head, int n) {
+        return twoPass(head, n);
+    }
 
-        ListNode fast = head;
-        ListNode slow = head;
+    private ListNode twoPass(ListNode head, int n) {
+        ListNode curr = head;
+        int size = 0;
 
-        for(int i = 0; i < n; i++) {
-            fast = fast.next;
+        while(curr != null) {
+            size++;
+            curr = curr.next;
         }
 
-        // edge case remove head
-        if(fast == null) {
+        if(n == size) {
             return head.next;
         }
 
-        while(fast.next != null) {
-            slow = slow.next;
-            fast = fast.next;
+        curr = head;
+
+        for(int i = 0; i < size - n - 1; i++) {
+            curr = curr.next;
         }
 
-        slow.next = slow.next.next;
+        curr.next = curr.next.next;
 
         return head;
-    }
 
+    }
 }
