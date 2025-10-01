@@ -14,52 +14,47 @@ class Solution {
             return head;
         }
 
-        ListNode mid = getMid(head);
-        ListNode rightHead = mid.next;
-        mid.next = null;
+        ListNode slow = head, fast = head.next;
 
-        ListNode left = sortList(head);
-        ListNode right = sortList(rightHead);
-
-        return merge(left, right);
-    }
-
-    private ListNode merge(ListNode left, ListNode right) {
-        ListNode temp = new ListNode(0);
-        ListNode tail = temp;
-
-        while(left != null && right != null) {
-            if(left.val < right.val) {
-                tail.next = left;
-                left = left.next;
-            }
-            else {
-                tail.next = right;
-                right = right.next;
-            }
-
-            tail = tail.next;
-        }
-
-        if(left != null) {
-            tail.next = left;
-        }
-
-        if(right != null) {
-            tail.next = right;
-        }
-
-        return temp.next;
-    }
-
-    private ListNode getMid(ListNode head) {
-        ListNode slow = head, fast = head;
-
-        while(fast.next != null && fast.next.next != null) {
+        while(fast != null && fast.next != null) {
             slow = slow.next;
             fast = fast.next.next;
         }
 
-        return slow;
+        ListNode secondHead = slow.next;
+        slow.next = null;
+        ListNode firstHead = head;
+
+        ListNode first = sortList(firstHead);
+        ListNode second = sortList(secondHead);
+
+        return merge(first, second);
+    }
+
+    private ListNode merge(ListNode first, ListNode second) {
+        ListNode dummy = new ListNode(0);
+        ListNode temp = dummy;
+
+        while(first != null && second != null) {
+            if(first.val <= second.val) {
+                temp.next = first;
+                first = first.next;
+            }
+            else{
+                temp.next = second;
+                second = second.next;
+            }
+            temp = temp.next;
+        }
+
+        if(first != null) {
+            temp.next = first;
+        }
+
+        if(second != null) {
+            temp.next = second;
+        }
+
+        return dummy.next;
     }
 }
