@@ -10,11 +10,20 @@ class Solution {
         while(end < len) {
             char ch = s.charAt(end);
 
-            if(mpp.containsKey(ch)) {
-                start = Math.max(start, mpp.get(ch) + 1) ;
+            // counting frequency of each character
+            mpp.put(ch, mpp.getOrDefault(ch, 0) + 1);
+
+            // if frequency > 1
+            if(mpp.get(ch) > 1) {
+
+                // shrink window size
+                while(mpp.get(ch) > 1) {
+                    char startChar = s.charAt(start);
+                    mpp.put(startChar, mpp.get(startChar) - 1);
+                    start++;
+                }
             }
 
-            mpp.put(ch, end);
             maxi = Math.max(maxi, end - start + 1);
             end++;
         }
