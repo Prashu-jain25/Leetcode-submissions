@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0049-group-anagrams](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0049-group-anagrams) |
 | [0142-linked-list-cycle-ii](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0142-linked-list-cycle-ii) |
 | [0217-contains-duplicate](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0229-majority-element-ii) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0049-group-anagrams) |
 | [0148-sort-list](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0229-majority-element-ii) |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0027-remove-element](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0035-search-insert-position) |
+| [0049-group-anagrams](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0137-single-number-ii](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0137-single-number-ii) |
@@ -193,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0049-group-anagrams](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0049-group-anagrams) |
 | [0387-first-unique-character-in-a-string](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0387-first-unique-character-in-a-string) |
 ## String Matching
 |  |
