@@ -10,8 +10,8 @@
  */
 class Solution {
     public ListNode removeNthFromEnd(ListNode head, int n) {
-        // return twoPass(head, n);
-        return onePass(head, n);
+        return twoPass(head, n);
+        //return onePass(head, n);
     }
 
     private ListNode onePass(ListNode head, int n) {
@@ -51,7 +51,9 @@ class Solution {
 
         curr = head;
 
-        for(int i = 0; i < size - n - 1; i++) {
+        int steps = size - n;
+
+        for(int i = 1; i < steps ; i++) {
             curr = curr.next;
         }
 
