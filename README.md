@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0662-maximum-width-of-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1036-rotting-oranges](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/1036-rotting-oranges) |
 ## Database
 |  |
 | ------- |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0575-distribute-candies](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0575-distribute-candies) |
 | [0792-binary-search](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0792-binary-search) |
 | [1031-add-to-array-form-of-integer](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/1031-add-to-array-form-of-integer) |
+| [1036-rotting-oranges](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/1036-rotting-oranges) |
 | [1646-kth-missing-positive-number](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/1646-kth-missing-positive-number) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/2432-number-of-zero-filled-subarrays) |
@@ -262,4 +264,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Matrix
+|  |
+| ------- |
+| [1036-rotting-oranges](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/1036-rotting-oranges) |
 <!---LeetCode Topics End-->
