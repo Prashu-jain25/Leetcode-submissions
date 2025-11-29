@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0783-search-in-a-binary-search-tree](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0792-binary-search](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0792-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0875-koko-eating-bananas) |
 | [1646-kth-missing-positive-number](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/1646-kth-missing-positive-number) |
 ## Array
 |  |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0575-distribute-candies) |
 | [0792-binary-search](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0792-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0875-koko-eating-bananas) |
 | [0994-rotting-oranges](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0994-rotting-oranges) |
 | [1031-add-to-array-form-of-integer](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/1031-add-to-array-form-of-integer) |
 | [1036-rotting-oranges](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/1036-rotting-oranges) |
