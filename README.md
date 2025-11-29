@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0226-invert-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0662-maximum-width-of-binary-tree) |
+| [0994-rotting-oranges](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0994-rotting-oranges) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1036-rotting-oranges](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/1036-rotting-oranges) |
 ## Database
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0575-distribute-candies) |
 | [0792-binary-search](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0792-binary-search) |
+| [0994-rotting-oranges](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0994-rotting-oranges) |
 | [1031-add-to-array-form-of-integer](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/1031-add-to-array-form-of-integer) |
 | [1036-rotting-oranges](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/1036-rotting-oranges) |
 | [1646-kth-missing-positive-number](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/1646-kth-missing-positive-number) |
@@ -267,5 +269,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0994-rotting-oranges](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/0994-rotting-oranges) |
 | [1036-rotting-oranges](https://github.com/Prashu-jain25/Leetcode-submissions/tree/master/1036-rotting-oranges) |
 <!---LeetCode Topics End-->
