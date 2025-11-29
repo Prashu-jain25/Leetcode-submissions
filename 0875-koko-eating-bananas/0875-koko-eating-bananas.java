@@ -21,7 +21,7 @@ class Solution {
         int currH = 0;
 
         for(int x : arr) {
-            currH += Math.ceil((double) x / (double) banana);
+            currH += Math.ceil((double) x / banana);
         }
 
         return currH <= maxLimit;
@@ -38,31 +38,3 @@ class Solution {
     }
 }
 
-/*
-arr = [3,6,7,11]
-h = 8
-
-banana = [1, 11]
-
-mid = 6 banana
-cnt = 1 + 1 + 2 + 2 => 6hr
-
-banana = [1, 6]
-
-mid = 3
-cnt = 1 + 2 + 3 + 4 = 10hr
-
-range = [4, 6]
-mid = 5
-cnt = 1 + 2 + 2 + 3 = 8hr
-
-range = [4, 5]
-mid = 4
-cnt = 1 + 2 + 2 + 3 = 8hr
-
-range = [4, 4]
-mid = 4
-
-
-
-*/
