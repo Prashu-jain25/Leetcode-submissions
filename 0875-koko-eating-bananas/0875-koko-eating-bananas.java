@@ -1,12 +1,16 @@
 class Solution {
     public int minEatingSpeed(int[] piles, int h) {
         int n = piles.length;
-        int low = 1, high = maxInArr(piles);
+        int maxPile = maxInArr(piles);
+        int low = 1, high = maxPile;
+        int ans = maxPile;
 
         while(low <= high) {
             int mid = low +(high - low) / 2;
 
+            // If possible, try smaller speed
             if(canEat(piles, h, mid)) {
+                ans = mid;
                 high = mid - 1;
             }
             else {
@@ -14,7 +18,7 @@ class Solution {
             }
         }
 
-        return low;
+        return ans;
     }
 
     public boolean canEat(int[] arr, int maxLimit, int banana) {
